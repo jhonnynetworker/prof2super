@@ -18,7 +18,8 @@ A plataforma de preparação para provas de acesso ao ensino superior é um recu
 
 ## Acesso à Plataforma
 
-A plataforma está disponível para acesso online em [www.exemplo-plataforma.com](http://www.exemplo-plataforma.com). Além disso, oferecemos um aplicativo mobile para dispositivos Android e iOS, disponível nas respectivas lojas de aplicativos.
+A plataforma está disponível para acesso online em: . 
+Além disso, oferecemos um aplicativo mobile para dispositivos Android e iOS, disponível nas respectivas lojas de aplicativos.
 
 ## Como Contribuir
 
